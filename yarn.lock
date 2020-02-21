@@ -4111,12 +4111,7 @@
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.0.tgz#69a23a3ad29caf0097f06eda59b361ee2f0639f6"
   integrity sha1-aaI6OtKcrwCX8G7aWbNh7i8GOfY=
 
-"@types/mithril@^1.1.16":
-  version "1.1.17"
-  resolved "https://registry.yarnpkg.com/@types/mithril/-/mithril-1.1.17.tgz#1a5dde2a653ef6011cd36ef70eefe6bac0cb92e4"
-  integrity sha512-U/wwKZT8hjstY2Q470bLMGVh/fjT2+SgBMzIILn0Z4nmgzzG6j+n18UOAxQ63aI8vXIOkQsbkAdbESt8+jIQdQ==
-
-"@types/mithril@^2.0.0":
+"@types/mithril@^2.0.0", "@types/mithril@^2.0.2":
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/@types/mithril/-/mithril-2.0.2.tgz#29a6e32103769b29840ae25f5bf75bb382801a15"
   integrity sha512-q0W5GGjWNxwmKPcfkkQJqSUIVr7yvMz1zH2enWDab8yDqvZuEgkR4+mcf1O70Wnreawg8OH4axfACDVdg2zskQ==
